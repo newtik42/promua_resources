@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories>
+  <category id="13040304" nameRU="Растворосмесители" nameUK="Розчинозмішувачі">
+    <attribute id="4" nameRU="Потребляемая мощность" type="real" nameUK="Споживана потужність" measureUnitRU="Вт" min="0" max="5000" measureUnitUK="Вт"/>
+    <attribute id="5" nameRU="Вес" type="real" nameUK="Вага" measureUnitRU="кг" min="0" max="2500" measureUnitUK="кг"/>
+    <attribute id="7" nameRU="Питание" type="singleselect" nameUK="Живлення">
+      <attribute_value id="13" nameRU="Сеть 220В" nameUK="Мережа 220В"/>
+      <attribute_value id="6958" nameRU="Сеть 380В" nameUK="Мережа 380В"/>
+    </attribute>
+    <attribute id="9" nameRU="Регулировка количества оборотов" type="bool" nameUK="Регулювання кількості обертів"/>
+    <attribute id="87" nameRU="Максимальное количество оборотов" type="real" nameUK="Максимальна кількість обертів" measureUnitRU="об/мин" min="0" max="5000" measureUnitUK="об/хв"/>
+    <attribute id="100" nameRU="Гарантийный срок" type="integer" nameUK="Гарантійний термін" measureUnitRU="календарный месяц" min="0" max="120" measureUnitUK="міс"/>
+    <attribute id="116" nameRU="Количество цилиндров" type="singleselect" nameUK="Кількість циліндрів">
+      <attribute_value id="7047" nameRU="1" nameUK="1"/>
+      <attribute_value id="7048" nameRU="2" nameUK="2"/>
+      <attribute_value id="7049" nameRU="3" nameUK="3"/>
+      <attribute_value id="7050" nameRU="4" nameUK="4"/>
+    </attribute>
+    <attribute id="121" nameRU="Возможность транспортировки" type="bool" nameUK="Можливість транспортування"/>
+    <attribute id="147" nameRU="Высота" type="real" nameUK="Висота" measureUnitRU="мм" min="0" max="3500" measureUnitUK="мм"/>
+    <attribute id="148" nameRU="Ширина" type="real" nameUK="Ширина" measureUnitRU="мм" min="0" max="3000" measureUnitUK="мм"/>
+    <attribute id="343" nameRU="Объем двигателя" type="real" nameUK="Об'єм двигуна" measureUnitRU="куб. см" min="0" max="200" measureUnitUK="куб. см"/>
+    <attribute id="344" nameRU="Мощность двигателя" type="real" nameUK="Потужність двигуна" measureUnitRU="лошадиная сила" min="0" max="10" measureUnitUK="л. с."/>
+    <attribute id="538" nameRU="Длина" type="real" nameUK="Довжина" measureUnitRU="мм" min="0" max="3500" measureUnitUK="мм"/>
+    <attribute id="1024" nameRU="Тип двигателя" type="singleselect" nameUK="Тип двигуна">
+      <attribute_value id="9284" nameRU="Бензиновый" nameUK="Бензиновий"/>
+      <attribute_value id="9285" nameRU="Дизельный" nameUK="Дизельний"/>
+    </attribute>
+    <attribute id="1026" nameRU="Тактность двигателя" type="singleselect" nameUK="Тактность двигуна">
+      <attribute_value id="9288" nameRU="Четырёхтактный" nameUK="Чотиритактний"/>
+      <attribute_value id="9289" nameRU="Двухтактный" nameUK="Двотактний"/>
+    </attribute>
+    <attribute id="1079" nameRU="Марка двигателя" type="free" nameUK="Марка двигуна"/>
+    <attribute id="2466" nameRU="Объем готовой смеси" type="real" nameUK="Об'єм готової суміші" measureUnitRU="литр" min="0" max="3500" measureUnitUK="л"/>
+    <attribute id="2469" nameRU="Время перемешивания" type="real" nameUK="Час перемішування" measureUnitRU="мин" min="0" max="5" measureUnitUK="хв"/>
+    <attribute id="2588" nameRU="Объем бака растворосмесителя" type="real" nameUK="Об'єм бака розчинозмішувача" measureUnitRU="литр" min="0" max="5000" measureUnitUK="л"/>
+    <attribute id="2589" nameRU="Число оборотов лопастей" type="real" nameUK="Кількість обертів лопатей" measureUnitRU="об/мин" min="0" max="50" measureUnitUK="об/хв"/>
+    <attribute id="3137" nameRU="Количество оборотов двигателя" type="real" nameUK="Кількість обертів двигуна" measureUnitRU="об/мин" min="0" max="5000" measureUnitUK="об/хв"/>
+    <attribute id="10006" nameRU="Состояние" type="singleselect" nameUK="Стан">
+      <attribute_value id="83769" nameRU="Новое" nameUK="Нове"/>
+      <attribute_value id="83770" nameRU="Б/У" nameUK="Вживані"/>
+    </attribute>
+    <attribute id="15875" nameRU="Марка электродвигателя" type="free" nameUK="Марка електродвигуна"/>
+  </category>
+</categories>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories>
+  <category id="13070502" nameRU="Пластификаторы и добавки в растворы" nameUK="Пластифікатори і добавки в розчини">
+    <attribute id="1559" nameRU="Упаковка" type="singleselect" nameUK="Упаковка">
+      <attribute_value id="71169" nameRU="Мешок" nameUK="Мішок"/>
+      <attribute_value id="123100" nameRU="Канистра" nameUK="Каністра"/>
+      <attribute_value id="134533" nameRU="Ведро" nameUK="Відро"/>
+      <attribute_value id="172374" nameRU="Банка" nameUK="Банка"/>
+      <attribute_value id="202939" nameRU="Биг-бэг" nameUK="Біг-бег"/>
+    </attribute>
+    <attribute id="4846" nameRU="Цвет" type="singleselect" nameUK="Колір">
+      <attribute_value id="30786" nameRU="Красный" nameUK="Червоний"/>
+      <attribute_value id="30787" nameRU="Розовый" nameUK="Рожевий"/>
+      <attribute_value id="30788" nameRU="Алый" nameUK="Червоний"/>
+      <attribute_value id="30789" nameRU="Малиновый" nameUK="Малиновий"/>
+      <attribute_value id="30790" nameRU="Оранжевый" nameUK="Помаранчевий"/>
+      <attribute_value id="30791" nameRU="Золотистый" nameUK="Золотистий"/>
+      <attribute_value id="30792" nameRU="Бежевый" nameUK="Бежевий"/>
+      <attribute_value id="30793" nameRU="Коричневый" nameUK="Коричневий"/>
+      <attribute_value id="30794" nameRU="Кофе с молоком" nameUK="Кава з молоком"/>
+      <attribute_value id="30795" nameRU="Терракота" nameUK="Теракота"/>
+      <attribute_value id="30796" nameRU="Персиковый" nameUK="Персиковий"/>
+      <attribute_value id="30797" nameRU="Желтый" nameUK="Жовтий"/>
+      <attribute_value id="30798" nameRU="Песочный" nameUK="Пісочний"/>
+      <attribute_value id="30799" nameRU="Янтарный" nameUK="Бурштиновий"/>
+      <attribute_value id="30800" nameRU="Лимонный" nameUK="Лимонний"/>
+      <attribute_value id="30801" nameRU="Зелёный" nameUK="Зелений"/>
+      <attribute_value id="30802" nameRU="Оливковый" nameUK="Оливковий"/>
+      <attribute_value id="30803" nameRU="Хаки" nameUK="Хакі"/>
+      <attribute_value id="30804" nameRU="Бирюзовый" nameUK="Бірюзовий"/>
+      <attribute_value id="30805" nameRU="Синий" nameUK="Синій"/>
+      <attribute_value id="30806" nameRU="Голубой" nameUK="Блакитний"/>
+      <attribute_value id="30807" nameRU="Индиго" nameUK="Індиго"/>
+      <attribute_value id="30808" nameRU="Фиолетовый" nameUK="Фіолетовий"/>
+      <attribute_value id="30809" nameRU="Сиреневый" nameUK="Бузковий"/>
+      <attribute_value id="30810" nameRU="Черный" nameUK="Чорний"/>
+      <attribute_value id="30811" nameRU="Белый" nameUK="Білий"/>
+      <attribute_value id="30812" nameRU="Серый" nameUK="Сірий"/>
+      <attribute_value id="30813" nameRU="Светло-серый" nameUK="Світло-сірий"/>
+      <attribute_value id="30814" nameRU="Темно-серый" nameUK="Темно-сірий"/>
+      <attribute_value id="30815" nameRU="Сливовый" nameUK="Сливовий"/>
+      <attribute_value id="30816" nameRU="Бордовый" nameUK="Бордовий"/>
+      <attribute_value id="31057" nameRU="Разные цвета" nameUK="Різні кольори"/>
+      <attribute_value id="156388" nameRU="Салатовый" nameUK="Салатний"/>
+    </attribute>
+    <attribute id="6491" nameRU="Плотность" type="real" nameUK="Щільність" measureUnitRU="г/см3" min="0" max="10" measureUnitUK="г/см3"/>
+    <attribute id="9120" nameRU="Тип использования" type="singleselect" nameUK="Тип використання">
+      <attribute_value id="71897" nameRU="Для наружных работ" nameUK="Для зовнішніх робіт"/>
+      <attribute_value id="71898" nameRU="Для внутренних работ" nameUK="Для внутрішніх робіт"/>
+      <attribute_value id="71899" nameRU="Универсальный" nameUK="Універсальний"/>
+    </attribute>
+    <attribute id="9143" nameRU="Расход" type="real" nameUK="Витрата" measureUnitRU="кг/м2" min="0" max="20" measureUnitUK="кг/м2"/>
+    <attribute id="9784" nameRU="Минимальная температура эксплуатации" type="real" nameUK="Мінімальна температура експлуатації" measureUnitRU="град." min="-150" max="5" measureUnitUK="град."/>
+    <attribute id="9785" nameRU="Максимальная температура эксплуатации" type="real" nameUK="Максимальна температура експлуатації" measureUnitRU="град." min="0" max="150" measureUnitUK="град."/>
+    <attribute id="14151" nameRU="Фасовка материала (кг)" type="real" nameUK="Фасовка матеріалу (кг)"/>
+    <attribute id="15327" nameRU="Фасовка материала (л)" type="real" nameUK="Фасовка матеріалу (л)"/>
+    <attribute id="16390" nameRU="Минимальная температура выполнения работ" type="real" nameUK="Мінімальна температура виконання робіт" measureUnitRU="град." min="-100" max="5" measureUnitUK="град."/>
+    <attribute id="16391" nameRU="Максимальная температура выполнения работ" type="real" nameUK="Максимальна температура виконання робіт" measureUnitRU="град." min="0" max="100" measureUnitUK="град."/>
+    <attribute id="16471" nameRU="Тип добавки" type="singleselect" nameUK="Тип добавки">
+      <attribute_value id="186859" nameRU="Суперпластификатор" nameUK="Суперпластифікатор"/>
+      <attribute_value id="186860" nameRU="Противоморозная" nameUK="Протиморозна"/>
+      <attribute_value id="186861" nameRU="Комплексная" nameUK="Комплексна"/>
+      <attribute_value id="186862" nameRU="Воздухоподавляющая" nameUK="Повітроподавляюча"/>
+      <attribute_value id="186863" nameRU="Замедлитель схватывания и твердения" nameUK="Сповільнювач схоплювання і твердіння"/>
+      <attribute_value id="186864" nameRU="Ускоритель твердения" nameUK="Прискорювач твердіння"/>
+      <attribute_value id="186865" nameRU="Гидрофобизатор" nameUK="Гідрофобізатор"/>
+      <attribute_value id="216530" nameRU="Повышающая прочность" nameUK="Підвищує міцність"/>
+    </attribute>
+    <attribute id="16472" nameRU="Состояние добавки" type="singleselect" nameUK="Стан добавки">
+      <attribute_value id="186870" nameRU="Жидкая" nameUK="Рідка"/>
+      <attribute_value id="186871" nameRU="Твердая" nameUK="Тверда"/>
+    </attribute>
+    <attribute id="16476" nameRU="Применение добавки" type="multiselect" nameUK="Застосування добавки">
+      <attribute_value id="186943" nameRU="Для бетона" nameUK="Для бетону"/>
+      <attribute_value id="186944" nameRU="Для стяжек" nameUK="Для стяжок"/>
+      <attribute_value id="186945" nameRU="Для кладки" nameUK="Для кладки"/>
+      <attribute_value id="186946" nameRU="Для штукатурки, шпаклевки" nameUK="Для штукатурки, шпаклівки"/>
+      <attribute_value id="186958" nameRU="Для клея" nameUK="Для клею"/>
+    </attribute>
+  </category>
+</categories>

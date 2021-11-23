@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories>
+  <category id="132303" nameRU="Гидрофобные пропитки, гидрофобизаторы" nameUK="Гідрофобні просочення, гідрофобізатори">
+    <attribute id="1559" nameRU="Упаковка" type="singleselect" nameUK="Упаковка">
+      <attribute_value id="134533" nameRU="Ведро" nameUK="Відро"/>
+      <attribute_value id="172374" nameRU="Банка" nameUK="Банка"/>
+    </attribute>
+    <attribute id="2586" nameRU="Морозостойкость" type="singleselect" nameUK="Морозостійкість">
+      <attribute_value id="15569" nameRU="F50" nameUK="F50"/>
+      <attribute_value id="15570" nameRU="F75" nameUK="F75"/>
+      <attribute_value id="15571" nameRU="F100" nameUK="F100"/>
+      <attribute_value id="15572" nameRU="F150" nameUK="F150"/>
+      <attribute_value id="15573" nameRU="F200" nameUK="F200"/>
+      <attribute_value id="15574" nameRU="F300" nameUK="F300"/>
+      <attribute_value id="15575" nameRU="F400" nameUK="F400"/>
+      <attribute_value id="15576" nameRU="F500" nameUK="F500"/>
+      <attribute_value id="15577" nameRU="F600" nameUK="F600"/>
+      <attribute_value id="15578" nameRU="F800" nameUK="F800"/>
+      <attribute_value id="15579" nameRU="F1000" nameUK="F1000"/>
+      <attribute_value id="147133" nameRU="F15" nameUK="F15"/>
+      <attribute_value id="147134" nameRU="F25" nameUK="F25"/>
+      <attribute_value id="147135" nameRU="F30" nameUK="F30"/>
+      <attribute_value id="147136" nameRU="F35" nameUK="F35"/>
+    </attribute>
+    <attribute id="3016" nameRU="Способ нанесения" type="multiselect" nameUK="Спосіб нанесення">
+      <attribute_value id="19642" nameRU="Механизированный" nameUK="Механізований"/>
+      <attribute_value id="19643" nameRU="Ручной" nameUK="Ручний"/>
+    </attribute>
+    <attribute id="3020" nameRU="Тип поверхности" type="multiselect" nameUK="Тип поверхні">
+      <attribute_value id="200708" nameRU="Бетон" nameUK="Бетон"/>
+      <attribute_value id="200709" nameRU="Камень" nameUK="Камінь"/>
+      <attribute_value id="200710" nameRU="Керамика" nameUK="Кераміка"/>
+      <attribute_value id="200712" nameRU="Металл" nameUK="Метал"/>
+      <attribute_value id="200713" nameRU="Пластик" nameUK="Пластик"/>
+      <attribute_value id="200723" nameRU="Древесина" nameUK="Деревина"/>
+    </attribute>
+    <attribute id="4846" nameRU="Цвет" type="singleselect" nameUK="Колір">
+      <attribute_value id="30786" nameRU="Красный" nameUK="Червоний"/>
+      <attribute_value id="30787" nameRU="Розовый" nameUK="Рожевий"/>
+      <attribute_value id="30788" nameRU="Алый" nameUK="Червоний"/>
+      <attribute_value id="30789" nameRU="Малиновый" nameUK="Малиновий"/>
+      <attribute_value id="30790" nameRU="Оранжевый" nameUK="Помаранчевий"/>
+      <attribute_value id="30791" nameRU="Золотистый" nameUK="Золотистий"/>
+      <attribute_value id="30792" nameRU="Бежевый" nameUK="Бежевий"/>
+      <attribute_value id="30793" nameRU="Коричневый" nameUK="Коричневий"/>
+      <attribute_value id="30794" nameRU="Кофе с молоком" nameUK="Кава з молоком"/>
+      <attribute_value id="30795" nameRU="Терракота" nameUK="Теракота"/>
+      <attribute_value id="30796" nameRU="Персиковый" nameUK="Персиковий"/>
+      <attribute_value id="30797" nameRU="Желтый" nameUK="Жовтий"/>
+      <attribute_value id="30798" nameRU="Песочный" nameUK="Пісочний"/>
+      <attribute_value id="30799" nameRU="Янтарный" nameUK="Бурштиновий"/>
+      <attribute_value id="30800" nameRU="Лимонный" nameUK="Лимонний"/>
+      <attribute_value id="30801" nameRU="Зелёный" nameUK="Зелений"/>
+      <attribute_value id="30802" nameRU="Оливковый" nameUK="Оливковий"/>
+      <attribute_value id="30803" nameRU="Хаки" nameUK="Хакі"/>
+      <attribute_value id="30804" nameRU="Бирюзовый" nameUK="Бірюзовий"/>
+      <attribute_value id="30805" nameRU="Синий" nameUK="Синій"/>
+      <attribute_value id="30806" nameRU="Голубой" nameUK="Блакитний"/>
+      <attribute_value id="30807" nameRU="Индиго" nameUK="Індиго"/>
+      <attribute_value id="30808" nameRU="Фиолетовый" nameUK="Фіолетовий"/>
+      <attribute_value id="30809" nameRU="Сиреневый" nameUK="Бузковий"/>
+      <attribute_value id="30810" nameRU="Черный" nameUK="Чорний"/>
+      <attribute_value id="30811" nameRU="Белый" nameUK="Білий"/>
+      <attribute_value id="30812" nameRU="Серый" nameUK="Сірий"/>
+      <attribute_value id="30813" nameRU="Светло-серый" nameUK="Світло-сірий"/>
+      <attribute_value id="30814" nameRU="Темно-серый" nameUK="Темно-сірий"/>
+      <attribute_value id="30815" nameRU="Сливовый" nameUK="Сливовий"/>
+      <attribute_value id="30816" nameRU="Бордовый" nameUK="Бордовий"/>
+      <attribute_value id="31057" nameRU="Разные цвета" nameUK="Різні кольори"/>
+      <attribute_value id="156388" nameRU="Салатовый" nameUK="Салатний"/>
+      <attribute_value id="270711" nameRU="бесцветный" nameUK="безбарвний"/>
+    </attribute>
+    <attribute id="9120" nameRU="Тип использования" type="singleselect" nameUK="Тип використання">
+      <attribute_value id="71897" nameRU="Для наружных работ" nameUK="Для зовнішніх робіт"/>
+      <attribute_value id="71898" nameRU="Для внутренних работ" nameUK="Для внутрішніх робіт"/>
+      <attribute_value id="71899" nameRU="Универсальный" nameUK="Універсальний"/>
+    </attribute>
+    <attribute id="9257" nameRU="Количество компонентов" type="singleselect" nameUK="Кількість компонентів">
+      <attribute_value id="73280" nameRU="Двухкомпонентная" nameUK="Двокомпонентна"/>
+      <attribute_value id="73282" nameRU="Однокомпонентная" nameUK="Однокомпонентна"/>
+    </attribute>
+    <attribute id="14151" nameRU="Фасовка материала (кг)" type="real" nameUK="Фасовка матеріалу (кг)"/>
+    <attribute id="15327" nameRU="Фасовка материала (л)" type="real" nameUK="Фасовка матеріалу (л)"/>
+    <attribute id="16387" nameRU="Расход материала" type="real" nameUK="Витрата матеріалу" measureUnitRU="л/м2" min="0" max="20" measureUnitUK="л/м2"/>
+    <attribute id="16393" nameRU="Адгезия к основанию" type="real" nameUK="Адгезія до основи" measureUnitRU="Мега паскаль" min="0" max="5" measureUnitUK="МПа"/>
+    <attribute id="16428" nameRU="Назначение материала" type="multiselect" nameUK="Призначення матеріалу">
+      <attribute_value id="200746" nameRU="Для кровли" nameUK="Для покрівлі"/>
+      <attribute_value id="200747" nameRU="Для полов" nameUK="Для підлог"/>
+      <attribute_value id="200748" nameRU="Для подвалов" nameUK="Для підвалів"/>
+      <attribute_value id="200749" nameRU="Для фасадов" nameUK="Для фасадів"/>
+      <attribute_value id="200750" nameRU="Для цоколей" nameUK="Для цоколів"/>
+      <attribute_value id="200751" nameRU="Для бассейнов" nameUK="Для басейнів"/>
+      <attribute_value id="200752" nameRU="Для резервуаров" nameUK="Для резервуарів"/>
+      <attribute_value id="200753" nameRU="Для балконов" nameUK="Для балконів"/>
+      <attribute_value id="200754" nameRU="Для стен" nameUK="Для стін"/>
+    </attribute>
+    <attribute id="17079" nameRU="Минимальная температура применения" type="real" nameUK="Мінімальна температура застосування" measureUnitRU="град." min="0" max="10" measureUnitUK="град."/>
+    <attribute id="17080" nameRU="Максимальная температура применения" type="real" nameUK="Максимальна температура застосування" measureUnitRU="град." min="0" max="50" measureUnitUK="град."/>
+  </category>
+</categories>
